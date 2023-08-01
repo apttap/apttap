@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apttap (Austin Pittman)
-- 👀 I’m interested in interface design, 3d printing, and robotics.
-- 🌱 I’m currently learning game engines
-- 💞️ I’m looking to collaborate on anything that makes the world a better place :)
+- 👀 I’m interested in interface design, machine learning, ai, robotics, and manufacuring.
+- 🌱 I’m currently shaders
+- 💞️ I’m looking to collaborate on human-machine interfaces 🤖
 - 📫 [@austinpittman](https://www.twitter.com/austinpittman) on twitter
 
 <!---
