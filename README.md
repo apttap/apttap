@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apttap (Austin Pittman)
 - 👀 I’m interested in interface design, machine learning, ai, robotics, and manufacuring.
-- 🌱 I’m currently learing shaders
+- 🌱 I’m currently learning shaders
 - 🤖 I’m looking to collaborate on machine interfaces
 
 <!---
